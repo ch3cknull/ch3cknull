@@ -1,5 +1,10 @@
 ### 🎉 ch3cknull's profile
 
+I'm ch3cknull, student.
+Now interested in Front-End and OpenResty
+
+Fan of TDD and FP
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3cknull&show_icons=true">
 
 ### Language
