@@ -22,4 +22,6 @@ Fan of TDD and FP
 <code><img height="20" src="https://windicss.org/assets/logo.svg" alt="windicss" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" /></code>
 <code><img height="20" src="https://openresty.org/images/logo.png" alt="openresty" /></code>
-  
+
+### Weekly Development Breakdown
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ch3cknull&layout=compact" alt="wakatime">
