@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch3cknull%2Fch3cknull&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### 🎉 ch3cknull's profile
 
 I'm ch3cknull, student.
@@ -6,6 +8,7 @@ Now interested in Front-End and OpenResty
 Fan of TDD and FP
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ch3cknull&show_icons=true">
+
 
 ### Language
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" /></code>
