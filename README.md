@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fch3cknull%2Fch3cknull&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true)](https://hits.seeyoufarm.com)
 [![wakatime](https://wakatime.com/badge/user/2ea49c5c-36cd-42f2-8d71-b99b2661e5d8.svg)](https://wakatime.com/@2ea49c5c-36cd-42f2-8d71-b99b2661e5d8)
 
+![codewars](https://www.codewars.com/users/ch3cknull/badges/large)
+
 ### 🎉 ch3cknull's profile
 
 I'm ch3cknull, student.
