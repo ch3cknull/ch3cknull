@@ -4,7 +4,7 @@
 
 ### 🎉 ch3cknull's profile
 
-I'm ch3cknull, student.
+I'm ch3cknull, working in Kwai Inc.
 Now interested in Front-End and OpenResty
 
 Fan of TDD and FP
